@@ -1,0 +1,14 @@
+title: Jasons Talks
+author: Jason
+email: hi@jsntn.com
+description: > # this means to ignore newlines until "baseurl:"
+  The talks from Jason...
+
+# Build settings
+markdown: kramdown
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - vendor
+
+permalink: /:title.html

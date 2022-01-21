@@ -1,0 +1,6 @@
+_site
+*.html~
+*.yml~
+*.md~
+Gemfile~
+Gemfile.lock
