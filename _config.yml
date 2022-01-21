@@ -4,7 +4,7 @@ email: hi@jsntn.com
 description: > # this means to ignore newlines until "baseurl:"
   The talks from Jason...
 
-# Build settings
+# build settings
 markdown: kramdown
 exclude:
   - Gemfile
