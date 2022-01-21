@@ -3,7 +3,7 @@ layout: post-podcast
 title: '#1 The CSS Naked Day'
 tags: [podcast]
 cover_url: 
-mp3: /recording/2022/the-css-naked-day.mp3
+mp3: https://jsntn.github.io/talks/recording/2022/the-css-naked-day.mp3
 description: The idea behind this event is to promote Web Standards. Plain and simple. This includes proper use of HTML, semantic markup, a good hierarchy structure.
 ---
 
