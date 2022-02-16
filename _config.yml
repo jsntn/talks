@@ -21,7 +21,7 @@ podcast:
   title: Jasons Talks
   subtitle: A seeker lives in the past
   url: /podcast.xml
-  albumCover: /talks/images/jt.jpeg
+  albumCover: /images/jt.jpeg
   summary: >
     Just some talks from Jason...<br />
     <a href="https://jsntn.github.io/talks">jsntn.github.io/talks</a>

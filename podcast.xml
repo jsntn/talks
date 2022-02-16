@@ -49,8 +49,8 @@
       <title>{{ post.title }}</title>
       <link>{{ site.url }}{{ post.url }}</link>
       <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
-      <guid isPermaLink="true">https://{{ post.mp3 }}</guid>
-      <enclosure length="{{ post.length }}" url="https://{{ post.mp3 }}" type="audio/mpeg"/>
+      <guid isPermaLink="true">{{ post.mp3 }}</guid>
+      <enclosure length="{{ post.length }}" url="{{ post.mp3 }}" type="audio/mpeg"/>
       <description><![CDATA[{{ post.description }}<br /><br />原文链接：<a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a>]]></description>
       <content:encoded><![CDATA[{{ post.description }}<br /><br />原文链接：<a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a>]]></content:encoded>
       <itunes:explicit>No</itunes:explicit>
