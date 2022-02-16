@@ -1,5 +1,6 @@
 title: Jasons Talks
 baseurl: https://jsntn.github.io/talks
+url: https://jsntn.github.io/talks
 author: Jason
 email: hi@jsntn.com
 description: > # this means to ignore newlines until "baseurl:"
@@ -13,3 +14,14 @@ exclude:
   - vendor
 
 permalink: /:title.html
+
+# PODCAST
+license: CC-BY-SA
+podcast:
+  title: Jasons Talks
+  subtitle: A seeker lives in the past
+  url: /podcast.xml
+  albumCover: /talks/images/jt.jpeg
+  summary: >
+    Just some talks from Jason...<br />
+    <a href="https://jsntn.github.io/talks">jsntn.github.io/talks</a>
