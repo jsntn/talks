@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+  xmlns:atom="http://www.w3.org/2005/Atom/"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:admin="http://webns.net/mvcb/"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
+  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <atom:link href="https://jsntn.github.io/talks/podcast.xml" rel="self" type="application/rss+xml" />
+    <title>Jasons Talks</title>
+    <link>https://jsntn.github.io/talks</link>
+    <description><![CDATA[Just some talks from Jason...<br /> <a href="https://jsntn.github.io/talks">jsntn.github.io/talks</a>]]></description>
+    <copyright>CC-BY-SA 2022 Jasons Talks</copyright>
+    <language>en</language>
+    <managingEditor>hi@jsntn.com (Jason)</managingEditor>
+    <webMaster>hi@jsntn.com (Jason)</webMaster>
+    <pubDate>Tue, 01 Mar 2022 09:13:31 +0000</pubDate>
+    <lastBuildDate>Tue, 01 Mar 2022 09:13:31 +0000</lastBuildDate>
+    <image>
+      <link>https://jsntn.github.io/talks</link>
+      <url>https://jsntn.github.io/talks/images/jt.jpeg</url>
+      <title>Jasons Talks</title>
+    </image>
+    <generator>Jasons Talks</generator>
+    <itunes:author>Jason</itunes:author>
+    <itunes:category text="Society &amp; Culture">
+      <itunes:category text="Personal Journals" />
+    </itunes:category>
+    <itunes:explicit>No</itunes:explicit>
+    <itunes:subtitle>A seeker lives in the past</itunes:subtitle>
+    <itunes:summary><![CDATA[Just some talks from Jason...<br /> <a href="https://jsntn.github.io/talks">jsntn.github.io/talks</a>]]></itunes:summary>
+    <itunes:keywords></itunes:keywords>
+    <itunes:owner>
+      <itunes:name>Jason</itunes:name>
+      <itunes:email>hi@jsntn.com</itunes:email>
+    </itunes:owner>
+    <itunes:image href="https://jsntn.github.io/talks/images/jt.jpeg" />
+    
+    
+    
+    
+    
+    <item>
+      <title>#4 Blog Phenomenon</title>
+      <link>https://jsntn.github.io/talks/blog-phenomenon.html</link>
+      <pubDate>Tue, 01 Mar 2022 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://jsntn.github.io/talks/recording/2022/blog-phenomenon.mp3</guid>
+      <enclosure length="" url="https://jsntn.github.io/talks/recording/2022/blog-phenomenon.mp3" type="audio/mpeg"/>
+      <description><![CDATA[For now, years passed, and there are not many people who are still loyal to their original intention, insisting on recording and sharing, or there are very few people who are still blogging...<br /><br />原文链接：<a href="https://jsntn.github.io/talks/blog-phenomenon.html">#4 Blog Phenomenon</a>]]></description>
+      <content:encoded><![CDATA[For now, years passed, and there are not many people who are still loyal to their original intention, insisting on recording and sharing, or there are very few people who are still blogging...<br /><br />原文链接：<a href="https://jsntn.github.io/talks/blog-phenomenon.html">#4 Blog Phenomenon</a>]]></content:encoded>
+      <itunes:explicit>No</itunes:explicit>
+      <itunes:author>Jason</itunes:author>
+      <itunes:duration></itunes:duration>
+      <itunes:subtitle><![CDATA[]]></itunes:subtitle>
+      <itunes:image href="https://jsntn.github.io/talks/images/jt.jpeg" />
+      <itunes:keywords>podcast</itunes:keywords>
+      <itunes:summary><![CDATA[For now, years passed, and there are not many people who are still loyal to their original intention, insisting on recording and sharing, or there are very few people who are still blogging...<br /><br />原文链接：<a href="https://jsntn.github.io/talks/blog-phenomenon.html">#4 Blog Phenomenon</a>]]></itunes:summary>
+    </item>
+    
+    
+    
+    
+    
+    <item>
+      <title>#3 The Pocket Casts Changelog</title>
+      <link>https://jsntn.github.io/talks/pocket-casts-changelog.html</link>
+      <pubDate>Sun, 13 Feb 2022 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://jsntn.github.io/talks/recording/2022/pocket-casts-changelog.mp3</guid>
+      <enclosure length="" url="https://jsntn.github.io/talks/recording/2022/pocket-casts-changelog.mp3" type="audio/mpeg"/>
+      <description><![CDATA[I like the changelog from Pocket Casts so much, and it usually makes me get some personal touch.<br /><br />原文链接：<a href="https://jsntn.github.io/talks/pocket-casts-changelog.html">#3 The Pocket Casts Changelog</a>]]></description>
+      <content:encoded><![CDATA[I like the changelog from Pocket Casts so much, and it usually makes me get some personal touch.<br /><br />原文链接：<a href="https://jsntn.github.io/talks/pocket-casts-changelog.html">#3 The Pocket Casts Changelog</a>]]></content:encoded>
+      <itunes:explicit>No</itunes:explicit>
+      <itunes:author>Jason</itunes:author>
+      <itunes:duration></itunes:duration>
+      <itunes:subtitle><![CDATA[]]></itunes:subtitle>
+      <itunes:image href="https://jsntn.github.io/talks/images/jt.jpeg" />
+      <itunes:keywords>podcast</itunes:keywords>
+      <itunes:summary><![CDATA[I like the changelog from Pocket Casts so much, and it usually makes me get some personal touch.<br /><br />原文链接：<a href="https://jsntn.github.io/talks/pocket-casts-changelog.html">#3 The Pocket Casts Changelog</a>]]></itunes:summary>
+    </item>
+    
+    
+    
+    
+    
+    <item>
+      <title>#2 Memory</title>
+      <link>https://jsntn.github.io/talks/memory.html</link>
+      <pubDate>Sun, 30 Jan 2022 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://jsntn.github.io/talks/recording/2022/memory.mp3</guid>
+      <enclosure length="" url="https://jsntn.github.io/talks/recording/2022/memory.mp3" type="audio/mpeg"/>
+      <description><![CDATA[I have always been very interested in the topic of memory, so actually I have paid attention to this kind of softwares for a long time. And what SuperMemo attracted me most at the beginning was not its recommendation or algorithm, but the persistence and iteration from its creator - Piotr Wozniak, the first version of SuperMemo was released in 1985.<br /><br />原文链接：<a href="https://jsntn.github.io/talks/memory.html">#2 Memory</a>]]></description>
+      <content:encoded><![CDATA[I have always been very interested in the topic of memory, so actually I have paid attention to this kind of softwares for a long time. And what SuperMemo attracted me most at the beginning was not its recommendation or algorithm, but the persistence and iteration from its creator - Piotr Wozniak, the first version of SuperMemo was released in 1985.<br /><br />原文链接：<a href="https://jsntn.github.io/talks/memory.html">#2 Memory</a>]]></content:encoded>
+      <itunes:explicit>No</itunes:explicit>
+      <itunes:author>Jason</itunes:author>
+      <itunes:duration></itunes:duration>
+      <itunes:subtitle><![CDATA[]]></itunes:subtitle>
+      <itunes:image href="https://jsntn.github.io/talks/images/jt.jpeg" />
+      <itunes:keywords>podcast</itunes:keywords>
+      <itunes:summary><![CDATA[I have always been very interested in the topic of memory, so actually I have paid attention to this kind of softwares for a long time. And what SuperMemo attracted me most at the beginning was not its recommendation or algorithm, but the persistence and iteration from its creator - Piotr Wozniak, the first version of SuperMemo was released in 1985.<br /><br />原文链接：<a href="https://jsntn.github.io/talks/memory.html">#2 Memory</a>]]></itunes:summary>
+    </item>
+    
+    
+    
+    
+    
+    <item>
+      <title>#1 The CSS Naked Day</title>
+      <link>https://jsntn.github.io/talks/css-naked-day.html</link>
+      <pubDate>Fri, 21 Jan 2022 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://jsntn.github.io/talks/recording/2022/the-css-naked-day.mp3</guid>
+      <enclosure length="" url="https://jsntn.github.io/talks/recording/2022/the-css-naked-day.mp3" type="audio/mpeg"/>
+      <description><![CDATA[The idea behind this event is to promote Web Standards. Plain and simple. This includes proper use of HTML, semantic markup, a good hierarchy structure.<br /><br />原文链接：<a href="https://jsntn.github.io/talks/css-naked-day.html">#1 The CSS Naked Day</a>]]></description>
+      <content:encoded><![CDATA[The idea behind this event is to promote Web Standards. Plain and simple. This includes proper use of HTML, semantic markup, a good hierarchy structure.<br /><br />原文链接：<a href="https://jsntn.github.io/talks/css-naked-day.html">#1 The CSS Naked Day</a>]]></content:encoded>
+      <itunes:explicit>No</itunes:explicit>
+      <itunes:author>Jason</itunes:author>
+      <itunes:duration></itunes:duration>
+      <itunes:subtitle><![CDATA[]]></itunes:subtitle>
+      <itunes:image href="https://jsntn.github.io/talks/images/jt.jpeg" />
+      <itunes:keywords>podcast</itunes:keywords>
+      <itunes:summary><![CDATA[The idea behind this event is to promote Web Standards. Plain and simple. This includes proper use of HTML, semantic markup, a good hierarchy structure.<br /><br />原文链接：<a href="https://jsntn.github.io/talks/css-naked-day.html">#1 The CSS Naked Day</a>]]></itunes:summary>
+    </item>
+    
+    
+  </channel>
+</rss>

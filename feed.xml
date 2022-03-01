@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jasons Talks</title>
+    <description>The talks from Jason...
+</description>
+    <link>https://jsntn.github.io/talkshttps://jsntn.github.io/talks/</link>
+    <atom:link href="https://jsntn.github.io/talkshttps://jsntn.github.io/talks/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Tue, 01 Mar 2022 09:13:31 +0000</pubDate>
+    <lastBuildDate>Tue, 01 Mar 2022 09:13:31 +0000</lastBuildDate>
+    <generator>Jekyll v3.8.7</generator>
+    
+      <item>
+        <title>#4 Blog Phenomenon</title>
+        <description>&lt;p&gt;《Beyond Feelings》- Critical Thinking and Writing&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Writing may be used for either of two broad purposes: to discover ideas or to communicate them. Most of the writing you have done in school is undoubtedly the latter kind. But the former can be very helpful, not only in sorting out ideas you’ve already produced, but also in stimulating the flow of new ideas. For some reason, the very act of writing down one idea seems to generate additional ideas.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+</description>
+        <pubDate>Tue, 01 Mar 2022 00:00:00 +0000</pubDate>
+        <link>https://jsntn.github.io/talkshttps://jsntn.github.io/talks/blog-phenomenon.html</link>
+        <guid isPermaLink="true">https://jsntn.github.io/talkshttps://jsntn.github.io/talks/blog-phenomenon.html</guid>
+        
+        <category>podcast</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>#3 The Pocket Casts Changelog</title>
+        <description>&lt;p&gt;Pocket Casts&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.pocketcasts.com&quot;&gt;www.pocketcasts.com&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Sun, 13 Feb 2022 00:00:00 +0000</pubDate>
+        <link>https://jsntn.github.io/talkshttps://jsntn.github.io/talks/pocket-casts-changelog.html</link>
+        <guid isPermaLink="true">https://jsntn.github.io/talkshttps://jsntn.github.io/talks/pocket-casts-changelog.html</guid>
+        
+        <category>podcast</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>#2 Memory</title>
+        <description>&lt;p&gt;Michael Nielsen: Augmenting Long-term Memory&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://augmentingcognition.com/ltm.html&quot;&gt;augmentingcognition.com/ltm.html&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Sun, 30 Jan 2022 00:00:00 +0000</pubDate>
+        <link>https://jsntn.github.io/talkshttps://jsntn.github.io/talks/memory.html</link>
+        <guid isPermaLink="true">https://jsntn.github.io/talkshttps://jsntn.github.io/talks/memory.html</guid>
+        
+        <category>podcast</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>#1 The CSS Naked Day</title>
+        <description>&lt;p&gt;The CSS Naked Day&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;//css-naked-day.github.io&quot;&gt;css-naked-day.github.io&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;CSS Naked Day 2020&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;//meyerweb.com/eric/thoughts/2020/04/09/css-naked-day-2020/&quot;&gt;meyerweb.com/eric/thoughts/2020/04/09/css-naked-day-2020/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Fri, 21 Jan 2022 00:00:00 +0000</pubDate>
+        <link>https://jsntn.github.io/talkshttps://jsntn.github.io/talks/css-naked-day.html</link>
+        <guid isPermaLink="true">https://jsntn.github.io/talkshttps://jsntn.github.io/talks/css-naked-day.html</guid>
+        
+        <category>podcast</category>
+        
+        
+      </item>
+    
+  </channel>
+</rss>
